@@ -1,0 +1,6 @@
+Rquired Gems:
+
+ - lastfm
+ - discogs-wrapper (need install from project folder)
+ - json
+ - mechanize
