@@ -4,3 +4,5 @@ Rquired Gems:
  - discogs-wrapper (need install from project folder)
  - json
  - mechanize
+
+For start just run  main.rb file
