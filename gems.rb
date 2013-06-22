@@ -1,0 +1,6 @@
+require 'rubygems'
+require 'lastfm'
+require 'discogs'
+require 'json'
+require 'mechanize'
+require 'debugger'
